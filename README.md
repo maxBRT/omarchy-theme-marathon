@@ -17,5 +17,7 @@ The wallpaper filenames are preserved for attribution:
 - Taylor E. Rose — Chemlight 1
 - Taylor E. Rose — Stimulant Revision
 - Tobias Kwan — Faction Agent Gaius 04
+- `screenshot-2026-08-15_18-53-18.png` — local screenshot
+- `screenshot-2026-08-15_18-53-42.png` — local screenshot
 
 Wallpaper copyright and redistribution permissions remain with their respective creators. Please verify permissions before redistributing this theme.
