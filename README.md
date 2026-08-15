@@ -21,3 +21,9 @@ The wallpaper filenames are preserved for attribution:
 - `screenshot-2026-08-15_18-53-42.png` — local screenshot
 
 Wallpaper copyright and redistribution permissions remain with their respective creators. Please verify permissions before redistributing this theme.
+
+## Theme in action
+
+![Marathon theme in a development workspace](backgrounds/screenshot-2026-08-15_18-53-18.png)
+
+![Marathon theme with a Marathon wallpaper](backgrounds/screenshot-2026-08-15_18-53-42.png)
